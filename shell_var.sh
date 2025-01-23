@@ -1,0 +1,2 @@
+firstname=Jeff
+echo $firstname
